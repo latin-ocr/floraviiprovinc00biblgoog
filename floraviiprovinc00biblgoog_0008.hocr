@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraviiprovinc00biblgoog/floraviiprovinc00biblgoog_0008.png"; bbox 0 0 3016 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 26 1141 1469 1811">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 26 1086 1469 1928">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 1141 1110 1368; baseline -0.01 6.638"><span class='ocrx_word' id='word_1_1' title='bbox 216 1141 1110 1368; x_wconf 57' lang='lat' dir='ltr'><strong>FLQRA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 26 1501 1469 1811; baseline 0.01 -11"><span class='ocrx_word' id='word_1_2' title='bbox 26 1646 29 1651; x_wconf 85' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 109 1644 261 1805; x_wconf 79' lang='lat' dir='ltr'><strong>vn</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 377 1501 1229 1811; x_wconf 66' lang='lat' dir='ltr'><strong>PROVINCIARUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1466 1578 1469 1585; x_wconf 73' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 55 2024 1417 2268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 55 2024 1417 2278">
+     <span class='ocr_line' id='line_1_3' title="bbox 55 2024 1417 2268; baseline 0.006 -8"><span class='ocrx_word' id='word_1_6' title='bbox 55 2152 57 2157; x_wconf 60' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 174 2034 518 2262; x_wconf 68' lang='lat' dir='ltr'><strong>men</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 569 2132 1171 2268; x_wconf 81' lang='lat' dir='ltr'><strong>FOEDERATI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1412 2024 1417 2033; x_wconf 35' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 2496 1231 2683">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 2496 1231 2683">
+     <span class='ocr_line' id='line_1_4' title="bbox 253 2496 1231 2683; baseline 0.012 -11"><span class='ocrx_word' id='word_1_10' title='bbox 253 2496 1231 2683; x_wconf 55' lang='lat' dir='ltr'><strong>INDIGENAJ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1512 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1512 5040">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1512 5040; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1512 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
